@@ -29,8 +29,6 @@ PUC Minas - 3º Período (cursando);
 -Tecnologo -Analise e Desenvolvimento de Sistemas Una -
 Transferido p/ Engenharia de Software;
 
-.GIT HUB: https://github.com/Willia53747474
-
 .HABILIDADES:
 -Html e CSS; 
 -JavaScript e Jquery; 
